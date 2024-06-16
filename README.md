@@ -1,14 +1,14 @@
-## ดาวน์โหลดไฟล์ binary
+## ดาวน์โหลดไฟล์ OneBox
 ```
-wget https://github.com/username/myapp/releases/download/v1.0.0/myapp -O /usr/local/bin/myapp
+sudo wget https://github.com/kla7016/onebox-cli/releases/latest/download/onebox -O /usr/local/bin/onebox
 ```
 
-## ให้สิทธิ์ในการรันไฟล์ binary
+## ให้สิทธิ์ในการรันไฟล์ OneBox
 ```
-chmod +x /usr/local/bin/myapp
+sudo chmod +x /usr/local/bin/onebox
 ```
 
 ## ตรวจสอบการติดตั้ง
 ```
-myapp version
+onebox version
 ```
