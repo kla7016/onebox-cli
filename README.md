@@ -50,7 +50,7 @@ onebox push -s /path/to/source/file.txt -d /path/to/destination/{datetime}_file.
 - `{date}`: {ปี}{เดือน}{วัน} เช่น 20240617
 - `{time}`: {ชั่วโมง}{นาที}{วินาที} เช่น 134526
 
-### อัปโหลดไฟล์โดยเปลี่ยนชื่อไฟล์และโฟลเดอร์ปลายทางโดยใช้รูปแบบ {datetime}
+### อัปโหลดไฟล์โดยเปลี่ยนชื่อไฟล์ และโฟลเดอร์ปลายทางโดยใช้รูปแบบ {datetime}
 ```bash
 onebox push -s /path/to/source/file.txt -d /path/to/destination-{date}/{time}_file.txt -f
 ```
