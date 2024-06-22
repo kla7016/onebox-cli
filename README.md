@@ -1,5 +1,9 @@
 # OneBox CLI
 
+<p align="center">
+  <img src="images/logo.png" alt="โลโก้">
+</p>
+
 OneBox CLI เป็น command-line tool ที่ออกแบบมาเพื่ออำนวนความสะดวกในการจัดการไฟล์ และการถ่ายโอนไฟล์ด้วย OneBox คู่มือนี้จะช่วยให้คุณดาวน์โหลด ติดตั้ง และใช้งาน OneBox CLI ได้อย่างมีประสิทธิภาพ
 
 ## ดาวน์โหลดและติดตั้ง OneBox
