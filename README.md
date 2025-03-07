@@ -281,7 +281,7 @@ onebox alert --set
 Email - กรอก Email ที่ต้องการส่งแจ้งเตือน Backup
 
 <img src="images/alert/alert-set-email.png" alt="alert-set-email" width="500">
-<br><br>
+<br>
 
 ### การตั้งค่าการแจ้งเตือนสำหรับ Discord Webhook
 
@@ -322,7 +322,6 @@ Discord Webhook - กรอก URL Discord Webhook ที่ต้องกา�
 กด `คัดลอก URL เว็บฮุก` เพื่อนำไปใช้ตั้งค่าการแจ้งเตือน
 
 <img src="images/alert/set-discord-8.png" alt="set-discord-8" width="500">
-
 
 <br>
 
