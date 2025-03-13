@@ -113,7 +113,7 @@ Email - กรอก Email ที่ต้องการส่งแจ้ง�
 <br>
 <img src="images/6_alert_set_email.png" alt="alert_set_email" width="500">
 <br><br>
-Discord Webhook - กรอก URL Discord Webhook ที่ต้องการส่งแจ้งเตือน Backup
+Discord Webhook
 
 <img src="images/6_alert_set_discord.png" alt="alert_set_discord" width="500">
 
@@ -151,6 +151,10 @@ Discord Webhook - กรอก URL Discord Webhook ที่ต้องกา�
 
 <img src="images/alert/set-discord-8.png" alt="set-discord-8" width="500">
 
+กรอก URL Discord Webhook ที่ต้องการส่งแจ้งเตือน Backup
+
+<img src="images/6_alert_set_discord.png" alt="alert_set_discord" width="500">
+
 <br><br><br>
 
 Telegram - กรอก Chat ID ที่ต้องการส่งแจ้งเตือน Backup
@@ -175,6 +179,9 @@ Telegram - กรอก Chat ID ที่ต้องการส่งแจ้
 
 <img src="images/alert/set-telegram-4.png" alt="set-telegram-4" width="400">
 
+กรอก Chat ID ที่ต้องการส่งแจ้งเตือน Backup
+
+<img src="images/alert/alert-set-telegram.png" alt="alert-set-telegram" width="500">
 
 ### 6.4 พิมพ์คำสั่งสำหรับตรวจสอบการตั้งค่า Notify ทั้งหมดอีกครั้ง
 ```bash
