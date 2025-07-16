@@ -1,4 +1,4 @@
-# OneBox CLI
+# OneBox CLI (POC)
 
 <p align="center">
   <img src="images/logo.png" alt="โลโก้" width="200">
@@ -307,7 +307,7 @@ Email - กรอก Email ที่ต้องการส่งแจ้ง�
 
 <img src="images/alert/set-discord-5.png" alt="set-discord-5" width="300">
 
-กด `ภาพรวม` และกด `สร้าง Webhook`
+กด `การรวม` และกด `สร้าง Webhook`
 
 <img src="images/alert/set-discord-6.png" alt="set-discord-6" width="500">
 

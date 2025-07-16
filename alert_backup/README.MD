@@ -81,7 +81,7 @@ onebox login-token
 แสดงข้อมูลองค์กร และแสดงข้อมูล Storage คงเหลือในระบบ onebox โดยใช้คำสั่ง
 
 ```bash
-onebox.exe account-info
+onebox account-info
 ```
 
 <img src="images/8_account_info.png" alt="account_info" width="500">
